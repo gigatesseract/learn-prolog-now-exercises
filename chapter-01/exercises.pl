@@ -54,7 +54,7 @@
 %% facts: 3
 %% rules: 4
 %% clauses: 7
-%% predicates: 7
+%% predicates: 5
 
 %% The commas in the goals column are not logical `AND`s, they are just
 %% delimiting the separate goals of a rule.
